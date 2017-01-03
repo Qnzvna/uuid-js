@@ -2,12 +2,11 @@
   "name" : "qnzvna-uuid-js",
   "description" : "A js library to generate and parse UUIDs,TimeUUIDs and generate TimeUUID based on Date for range selections. Fork of https://github.com/pnegri/uuid-js",
   "version" : "0.1",
-  "author" : "Patrick Negri <patrick@iugu.com.br>",
-  "homepage": "http://github.com/pnegri/uuid-js",
+  "author" : "Qnzvna",
   "contributors": [
     { "name": "Christoph Tavan", "github": "https://github.com/ctavan" },
     { "name": "Gary Dusbabek <gdusbabek@gmail.com>" },
-	{ "name": "Qnzvna", "github": "https://github.com/Qnzvna" }
+    { "name": "Patrick Negri <patrick@iugu.com.br>" }
   ],
   "main" : "./lib/uuid.js",
   "directories": {
